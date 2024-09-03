@@ -114,10 +114,15 @@ ganesh.style.padding = "20px 150px"
 ganeshCon.appendChild(ganesh)
 
 let wish = document.createElement("h4")
-wish.innerText = "వినాయక చవితి శుభాకాంక్షలు"
+wish.innerText = "వినాయక చవితి శుభాకాంక్షలు - 2024"
 wish.style.color = "white"
+wish.style.height = "30px"
+wish.style.fontFamily = "Tahoma"
+wish.style.fontSize = "20px"
 wish.style.textAlign = "center"
-wish.style.boxShadow = "0px 0px 20px rgb(234,156,16)"
+wish.style.marginTop = "-10px"
+wish.style.padding = "10px 0px"
+wish.style.boxShadow = "0px 0px 20px rgb(23347258934,5634789156,1635452984)"
 wish.style.textShadow = "0px 0px 10px red"
 
 ganeshCon.appendChild(wish)
